@@ -18,6 +18,7 @@ The **BaaS Framework** is an open-source Backend as a Service (BaaS) framework d
 - **Database Integration**: Compatibility with modern real-time databases like RethinkDB, SurrealDB, etc.
 - **Object Storage**: Built-in support for object storage solutions.
 - **Extendability**: Easy to add custom routes and extend functionality beyond the BaaS features.
+- **Real-time Features**: Full real time support for db, presence, e.t.c
 
 ### Why This Framework?
 
