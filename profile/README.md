@@ -27,6 +27,10 @@ Our mission is to simplify backend development by providing a highly flexible, l
 
 The first versions of this project are currently in development. Stay tuned for updates!
 
+### Current proposed structure
+![Bass Framework - Frame 1](https://github.com/user-attachments/assets/4e801597-a678-4fb8-94c3-0802275b028a)
+
+
 ## Get Involved
 
 We welcome contributors from all backgrounds and skill levels. Whether you want to contribute code, report issues, or provide feedback, we'd love to hear from you! Check out our [contribution guide](link to contribution guide) to get started.
