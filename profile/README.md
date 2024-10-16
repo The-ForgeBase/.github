@@ -22,14 +22,11 @@ The **BaaS Framework** is an open-source Backend as a Service (BaaS) framework d
 
 ### Why This Framework?
 
-Our mission is to simplify backend development by providing a highly flexible, language-agnostic BaaS framework that developers can plug into their existing server setup. Whether you're using Go, Node, PHP, or other frameworks, this BaaS will offer you a unified and scalable solution to handle authentication, database operations, storage, and more.
+Our mission is to simplify backend development by providing a highly flexible, language-agnostic BaaS framework that developers can plug into their existing server setup. While we are 70% inspired by Pocketbase, we recognized its limitations—particularly its dependency on SQLite and its inability to scale horizontally. To overcome these challenges, we are building a better alternative that not only supports horizontal scaling but also integrates with more robust databases like PostgreSQL, SurrealDB, and RethinkDB. This approach ensures that our framework is scalable, versatile, and suitable for a wide range of applications, from small projects to large, distributed systems.
 
 ## Project Status
 
 The first versions of this project are currently in development. Stay tuned for updates!
-
-### Current proposed structure
-![Bass Framework - Frame 1](https://github.com/user-attachments/assets/4e801597-a678-4fb8-94c3-0802275b028a)
 
 
 ## Get Involved
