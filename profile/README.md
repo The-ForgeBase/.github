@@ -13,7 +13,6 @@ The **BaaS Framework** is an open-source Backend as a Service (BaaS) framework d
 - and more!
 
 ### Core Features:
-- **Default BaaS**: Supports optional cloud functions for common tasks.
 - **Authentication & Authorization**: Fine-grained role, table, and namespace-level permissions.
 - **Database Integration**: Compatibility with modern real-time databases like RethinkDB, SurrealDB, etc.
 - **Object Storage**: Built-in support for object storage solutions.
@@ -22,7 +21,7 @@ The **BaaS Framework** is an open-source Backend as a Service (BaaS) framework d
 
 ### Why This Framework?
 
-Our mission is to simplify backend development by providing a highly flexible, language-agnostic BaaS framework that developers can plug into their existing server setup. While we are 70% inspired by Pocketbase, we recognized its limitations—particularly its dependency on SQLite and its inability to scale horizontally. To overcome these challenges, we are building a better alternative that not only supports horizontal scaling but also integrates with more robust databases like PostgreSQL, SurrealDB, and RethinkDB. This approach ensures that our framework is scalable, versatile, and suitable for a wide range of applications, from small projects to large, distributed systems.
+Our mission is to simplify backend development by providing a highly flexible, language-agnostic BaaS framework that developers can plug into their existing server setup. While we are 70% inspired by Pocketbase, we recognized its limitations—particularly its dependency on SQLite and its inability to scale horizontally. To overcome these challenges, we are building a better alternative that not only supports horizontal scaling but also integrates with more robust databases like PostgreSQL, SurrealDB, e.t.c. This approach ensures that our framework is scalable, versatile, and suitable for a wide range of applications, from small projects to large, distributed systems.
 
 ## Project Status
 
