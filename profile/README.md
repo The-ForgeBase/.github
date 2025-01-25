@@ -25,7 +25,7 @@ Our mission is to simplify backend development by providing a highly flexible, l
 
 ## Project Status
 
-The first versions of this project are currently in development. Stay tuned for updates!
+The first versions of this project are currently in development in Go, Rust and Typescript. Stay tuned for updates!
 
 
 ## Get Involved
